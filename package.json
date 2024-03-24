@@ -1,0 +1,31 @@
+{
+  "name": "quiz-it",
+  "version": "1.0.0",
+  "description": "A quiz app made for education purpose.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/RhazeCoder/quiz-it.git"
+  },
+  "keywords": [
+    "quiz",
+    "quiz-app",
+    "quiz-it",
+    "quizit"
+  ],
+  "author": "RhazeCoder (Justine Agcanas)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RhazeCoder/quiz-it/issues"
+  },
+  "homepage": "https://github.com/RhazeCoder/quiz-it#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.1"
+  }
+}
