@@ -28,7 +28,7 @@ app.post('/api/check_user', async (req, res) => {
     if (!reqBody || !reqBody.uniqueId) {
         res.status(400).send({
             status: 'error',
-            message: "Bad Request"
+            message: 'Bad Request'
         });
         return;
     }
@@ -57,7 +57,7 @@ app.post('/api/add_user', async (req, res) => {
     if (!reqBody || !reqBody.uniqueId || !reqBody.username) {
         res.status(400).send({
             status: 'error',
-            message: "Bad Request"
+            message: 'Bad Request'
         });
         return;
     }
@@ -78,10 +78,10 @@ app.post('/api/create', async (req, res) => {
     let reqBody = req.body;
 
     try {
-        if (!reqBody || !reqBody.items || !reqBody.username || !reqBody.category || !reqBody.difficulty || !reqBody.type) {
+        if (!reqBody || !reqBody.items || !reqBody.category || !reqBody.difficulty || !reqBody.type) {
             res.status(400).send({
                 status: 'error',
-                message: "Bad Request"
+                message: 'Bad Request'
             });
             return;
         }
@@ -173,7 +173,7 @@ app.post('/api/check', async (req, res) => {
         if (!reqBody || !reqBody.id || !reqBody.answers) {
             res.status(400).send({
                 status: 'error',
-                message: "Bad Request"
+                message: 'Bad Request'
             });
             return;
         }
@@ -239,14 +239,14 @@ app.post('/api/quiz_preview', async (req, res) => {
         if (!reqBody || !reqBody.id) {
             res.status(400).send({
                 status: 'error',
-                message: "Bad Request"
+                message: 'Bad Request'
             });
             return;
         }
 
         let { id } = reqBody;
 
-        if (!quizes[id]) {
+        if (!quizes[id] && !quizDatas[id]) {
             res.status(404).send({
                 status: 'error',
                 message: "Quiz data not found"
