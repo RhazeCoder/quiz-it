@@ -22,6 +22,14 @@ body {
   padding: 30px 20px 20px 20px;
 }
 
+.welcome-content-container {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  flex-direction: column;
+  align-items: center;
+}
+
 #username-input {
   margin-top: 45px;
   border-radius: 10px;
