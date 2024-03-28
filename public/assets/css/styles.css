@@ -9,6 +9,10 @@ body {
   outline: none;
 }
 
+a {
+  color: inherit;
+}
+
 .main-container {
   max-width: 500px;
 }
