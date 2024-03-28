@@ -14,20 +14,17 @@
 <body class="text-primary" style="--bs-primary: #211951;--bs-primary-rgb: 33,25,81;">
     <div id="main-welcome-container" class="main-container"
         style="width: 100vw;height: 100vh;--bs-primary: #211951;--bs-primary-rgb: 33,25,81;--bs-secondary: #836FFF;--bs-secondary-rgb: 131,111,255;">
-        <div class="welcome-content-container">
-            <img src="assets/img/logo.png" style="width: 150px;" width="100px" height="140px">
-            <h3 class="text-center text-secondary" style="--bs-secondary: #16F4BA;--bs-secondary-rgb: 22,244,186;">
-                Welcome
-                to Quiz-It!</h3><input type="text" id="username-input" placeholder="Username"><button class="btn"
-                id="enter-quiz" type="button">ENTER<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"
-                    viewBox="0 0 24 24" fill="none" style="font-size: 22px; font-weight: 800;">
-                    <path d="M20 5H8V9H6V3H22V21H6V15H8V19H20V5Z" fill="currentColor"></path>
-                    <path
-                        d="M13.0743 16.9498L11.6601 15.5356L14.1957 13H2V11H14.1956L11.6601 8.46451L13.0743 7.05029L18.024 12L13.0743 16.9498Z"
-                        fill="currentColor"></path>
-                </svg></button>
-        </div>
-        <div class="foot">
+        <img src="assets/img/logo.png" style="width: 150px;" width="100px" height="140px">
+        <h3 class="text-center text-secondary" style="--bs-secondary: #16F4BA;--bs-secondary-rgb: 22,244,186;">Welcome
+            to Quiz-It!</h3><input type="text" id="username-input" placeholder="Username"><button class="btn"
+            id="enter-quiz" type="button">ENTER<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"
+                viewBox="0 0 24 24" fill="none" style="font-size: 22px; font-weight: 800;">
+                <path d="M20 5H8V9H6V3H22V21H6V15H8V19H20V5Z" fill="currentColor"></path>
+                <path
+                    d="M13.0743 16.9498L11.6601 15.5356L14.1957 13H2V11H14.1956L11.6601 8.46451L13.0743 7.05029L18.024 12L13.0743 16.9498Z"
+                    fill="currentColor"></path>
+            </svg></button>
+        <div class="foots">
             <div class="text-center"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"
                     fill="currentColor" viewBox="0 0 16 16" class="bi bi-facebook social-icon">
                     <path
@@ -125,24 +122,19 @@
         </ul>
         <div id="goback-next-btn-container" style="display: flex; flex-direction: row; width: 100%; margin-top: 35px;">
             <button class="btn btn-primary" id="go-back" type="button">Go Back</button><button class="btn btn-primary"
-                id="next-question" type="button">Next</button>
-        </div>
+                id="next-question" type="button">Next</button></div>
     </div>
     <div id="main-result-container" class="main-container">
         <p id="result-username" style="font-size: 2.3rem; font-weight: 700; color: #16F4BA; text-align: center;"></p>
         <p id="result-score"
-            style="color: #F0F2FF; font-size: 4rem; font-weight: 800; margin: -30px 0 50px 0; padding:  0; letter-spacing: 1px;">
-        </p>
+            style="color: #F0F2FF; font-size: 4rem; font-weight: 800; margin: -30px 0 50px 0; padding:  0; letter-spacing: 1px;"></p>
         <p id="result-category" class="result-setup-preview" style="color: #16F4BA; text-align: center;"></p>
         <p id="result-difficulty" class="result-setup-preview" style="color: #16F4BA; text-align: center;"></p>
         <button class="btn btn-primary" id="start-new-quiz" type="button">Start Quiz</button><button
             class="btn btn-primary" id="view-quiz-preview" type="button">Quiz Result</button>
-        <svg id="share-result" class="bi bi-share-fill" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"
-            fill="#ffffff" viewBox="0 0 16 16" style="font-size: 20px; margin-top: 20px;">
-            <path
-                d="M11 2.5a2.5 2.5 0 1 1 .603 1.628l-6.718 3.12a2.499 2.499 0 0 1 0 1.504l6.718 3.12a2.5 2.5 0 1 1-.488.876l-6.718-3.12a2.5 2.5 0 1 1 0-3.256l6.718-3.12A2.5 2.5 0 0 1 11 2.5">
-            </path>
-        </svg>
+            <svg id="share-result" class="bi bi-share-fill" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="#ffffff" viewBox="0 0 16 16" style="font-size: 20px; margin-top: 20px;">
+                <path d="M11 2.5a2.5 2.5 0 1 1 .603 1.628l-6.718 3.12a2.499 2.499 0 0 1 0 1.504l6.718 3.12a2.5 2.5 0 1 1-.488.876l-6.718-3.12a2.5 2.5 0 1 1 0-3.256l6.718-3.12A2.5 2.5 0 0 1 11 2.5"></path>
+            </svg>
         <div class="foots">
             <div class="text-center"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"
                     fill="currentColor" viewBox="0 0 16 16" class="bi bi-facebook social-icon">
@@ -178,7 +170,7 @@
     <div id="main-quiz-preview-container" class="main-container">
         <div class="quiz-items-items-container">
             <ul id="quiz-preview-list">
-
+            
             </ul>
         </div>
         <button class="btn btn-primary" id="quiz-preview-goback" type="button">GO BACK</button>
