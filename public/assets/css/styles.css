@@ -75,8 +75,8 @@ body {
 #main-setup-container {
   display: flex;
   flex-direction: column;
-  width: 100dvw;
-  height: 100dvh;
+  width: 100vw;
+  height: 100vh;
   padding: 20px;
 }
 
@@ -110,8 +110,8 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 100dvw;
-  height: 100dvh;
+  width: 100vw;
+  height: 100vh;
   padding: 20px;
 }
 
@@ -216,8 +216,8 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 100dvw;
-  height: 100dvh;
+  width: 100vw;
+  height: 100vh;
   padding: 50px 20px 20px 20px;
 }
 
@@ -253,8 +253,8 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 100dvw;
-  height: 100dvh;
+  width: 100vw;
+  height: 100vh;
   padding: 20px;
 }
 
