@@ -25,7 +25,7 @@ body {
 .welcome-content-container {
   display: flex;
   width: 100%;
-  height: 100%;
+  height: 90%;
   flex-direction: column;
   align-items: center;
 }
