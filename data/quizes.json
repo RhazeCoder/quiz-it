@@ -1,20 +1,994 @@
 {
-  "k9xzlqw9": {
-    "username": "test",
+  "d5xxt5fa": {
+    "username": "pogi",
     "category": "any",
     "difficulty": "any",
     "type": "any",
     "correctAnswers": [
-      "1982",
-      "7.62x39mm",
+      "Louis XIV",
+      "True",
+      "The separation of a strain from a natural, mixed population of living microbes",
+      "Jupiter",
+      "5"
+    ],
+    "quiz_data": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which Louis was known as &#039;The Sun King of France&#039;?",
+        "choices": [
+          "Louis XIV",
+          "Louis XVI",
+          "Louis XV",
+          "Louis XIII"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Brezhnev was the 5th leader of the USSR.",
+        "choices": [
+          "False",
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "What does the term &quot;isolation&quot; refer to in microbiology?",
+        "choices": [
+          "The separation of a strain from a natural, mixed population of living microbes",
+          "Testing effects of certain microorganisms in an isolated enviroments, such as caves",
+          "The nitrogen level in soil",
+          "A lack of nutrition in microenviroments"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;One Piece&quot;, which one of the following is NOT an Ancient Weapon?",
+        "choices": [
+          "Poseidon",
+          "Jupiter",
+          "Uranus",
+          "Pluton"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "How many games in the Crash Bandicoot series were released on the original Playstation?",
+        "choices": [
+          "5",
+          "3",
+          "4",
+          "6"
+        ]
+      }
+    ]
+  },
+  "qhwi363r": {
+    "username": "pogi",
+    "category": "any",
+    "difficulty": "any",
+    "type": "any",
+    "correctAnswers": [
+      "D",
+      "1",
+      "Green",
+      "7",
+      "World War II"
+    ],
+    "quiz_data": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Mathematics",
+        "question": "What is the Roman numeral for 500?",
+        "choices": [
+          "L",
+          "C",
+          "X",
+          "D"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "In Canadian football, scoring a rouge is worth how many points?",
+        "choices": [
+          "4",
+          "2",
+          "1",
+          "3"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "When one is &quot;envious&quot;, they are said to be what color?",
+        "choices": [
+          "Green",
+          "Yellow",
+          "Blue",
+          "Red"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "How many Harry Potter books are there?",
+        "choices": [
+          "8",
+          "5",
+          "6",
+          "7"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "The &quot;Day of Defeat&quot; series of games take place during which war?",
+        "choices": [
+          "Vietnam War",
+          "World War II",
+          "Iraq War",
+          "World War I"
+        ]
+      }
+    ]
+  },
+  "xvom3ega": {
+    "username": "pogi",
+    "category": "any",
+    "difficulty": "any",
+    "type": "any",
+    "correctAnswers": [
+      "False",
+      "Niagara Mohawk Building",
+      "You smell extremely unpleasant.",
+      "Jelly Bean",
+      "Shao Kahn"
+    ],
+    "quiz_data": [
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Greenland is covered with grass and Iceland covered with ice.",
+        "choices": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Which of the following buildings is example of a structure primarily built in the Art Deco architectural style?",
+        "choices": [
+          "Taipei 101",
+          "One Detroit Center",
+          "Westendstrasse 1",
+          "Niagara Mohawk Building"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "If someone said &quot;you are olid&quot;, what would they mean?",
+        "choices": [
+          "You are out of shape/weak.",
+          "You are incomprehensible/an idiot.",
+          "You smell extremely unpleasant.",
+          "Your appearance is repulsive."
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "What was the name given to Android 4.3?",
+        "choices": [
+          "Lollipop",
+          "Nutella",
+          "Froyo",
+          "Jelly Bean"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Who turns out to be the true victor in the Battle of Armageddon in Mortal Kombat?",
+        "choices": [
+          "Liu Kang",
+          "Shao Kahn",
+          "Shang Tsung",
+          "Raiden"
+        ]
+      }
+    ]
+  },
+  "2hp2atti": {
+    "username": "wed",
+    "category": "any",
+    "difficulty": "any",
+    "type": "any",
+    "correctAnswers": [
+      "Nuts",
+      "Tetris",
+      "Say You Will",
+      "Toys in the Attic",
+      "Russia"
+    ],
+    "quiz_data": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "A carnivorous animal eats flesh, what does a nucivorous animal eat?",
+        "choices": [
+          "Seaweed",
+          "Fruit",
+          "Nuts",
+          "Nothing"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Which puzzle game was designed by a Russian programmer, featuring Russian buildings and music?",
+        "choices": [
+          "Tetris",
+          "Puzzled",
+          "Boulder Dash",
+          "Jenga"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What is the first track on Kanye West&#039;s 808s &amp; Heartbreak?",
+        "choices": [
+          "Say You Will",
+          "Heartless",
+          "Street Lights",
+          "Welcome to Heartbreak"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which Aerosmith album featured &quot;Walk This Way&quot;?",
+        "choices": [
+          "Draw the Line",
+          "Get Your Wings",
+          "Toys in the Attic",
+          "Rocks"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which country hosted the 2018 FIFA World Cup?",
+        "choices": [
+          "Germany",
+          "United States",
+          "Saudi Arabia",
+          "Russia"
+        ]
+      }
+    ]
+  },
+  "f6tjpgak": {
+    "username": "wed",
+    "category": "any",
+    "difficulty": "any",
+    "type": "any",
+    "correctAnswers": [
+      "Ultima Online",
+      "Bern",
+      "Stick and Coal",
+      "Der Riese",
+      "True"
+    ],
+    "quiz_data": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "What was the name of the first MMORPG to popularize the genre?",
+        "choices": [
+          "Meridian 59",
+          "Ultima Online",
+          "World of Warcraft",
+          "Guild Wars"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which city is the capital of Switzerland?",
+        "choices": [
+          "Z&uuml;rich",
+          "Frankfurt",
+          "Wien",
+          "Bern"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "In Minecraft, which two items must be combined to craft a torch?",
+        "choices": [
+          "Stick and Fire",
+          "Wood and Coal",
+          "Wood and Fire",
+          "Stick and Coal"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Call Of Duty: Zombies&quot;, which map features the &quot;Fly Trap&quot; easter egg?",
+        "choices": [
+          "Shi No Numa",
+          "Der Riese",
+          "Call Of The Dead",
+          "Tranzit"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "Francis Bacon died from a fatal case of pneumonia while he was attempting to preserve meat by stuffing a chicken with snow.",
+        "choices": [
+          "True",
+          "False"
+        ]
+      }
+    ]
+  },
+  "wuse9f5b": {
+    "username": "gago",
+    "category": "any",
+    "difficulty": "any",
+    "type": "any",
+    "correctAnswers": [
+      "True",
+      "6",
+      "Dr.Dre",
+      "Skeleton",
+      "Markup Language"
+    ],
+    "quiz_data": [
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "The protagonist in &quot;Humanity Has Declined&quot; has no discernable name and is simply referred to as &#039;I&#039; for most of the series.",
+        "choices": [
+          "False",
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "How many manned moon landings have there been?",
+        "choices": [
+          "1",
+          "7",
+          "6",
+          "3"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "Which one of these rappers is NOT a member of the rap group Wu-Tang Clan?",
+        "choices": [
+          "Dr.Dre",
+          "GZA",
+          "Method Man",
+          "Ol&#039; Dirty Bastard"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which of these is a type of monster found in Minecraft?",
+        "choices": [
+          "Werewolf",
+          "Skeleton",
+          "Vampire",
+          "Minotaur"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "HTML is what type of language?",
+        "choices": [
+          "Macro Language",
+          "Programming Language",
+          "Scripting Language",
+          "Markup Language"
+        ]
+      }
+    ]
+  },
+  "otk64v73": {
+    "username": "gago",
+    "category": "any",
+    "difficulty": "any",
+    "type": "any",
+    "correctAnswers": [
+      "Rhyhorn",
+      "Feliformia",
       "Tandoori",
-      "Participating in cannibalism.",
-      "Dan Marino",
-      "Knee",
-      "Madonna",
-      "Aristaeus",
-      "Queen",
-      "False"
+      "Heartbleed",
+      "Brain",
+      "1890",
+      "Game Boy Color",
+      "Mamluk",
+      "Space",
+      "Shamir"
+    ],
+    "quiz_data": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "During the game&#039;s development, what was the first ever created Pok&eacute;mon?",
+        "choices": [
+          "Arceus",
+          "Mew",
+          "Bulbasaur",
+          "Rhyhorn"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "What scientific suborder does the family Hyaenidae belong to?",
+        "choices": [
+          "Caniformia",
+          "Haplorhini",
+          "Ciconiiformes",
+          "Feliformia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General Knowledge",
+        "question": "What is the name given to Indian food cooked over charcoal in a clay oven?",
+        "choices": [
+          "Biryani",
+          "Pani puri",
+          "Tiki masala",
+          "Tandoori"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science: Computers",
+        "question": "Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?",
+        "choices": [
+          "Heartbleed",
+          "Shellscript",
+          "Corrupted Blood",
+          "Shellshock"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "Alzheimer&#039;s disease primarily affects which part of the human body?",
+        "choices": [
+          "Heart",
+          "Skin",
+          "Lungs",
+          "Brain"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "What year does Part 7 of &quot;JoJo&#039;s Bizarre Adventure&quot; take place in?",
+        "choices": [
+          "1890",
+          "1888",
+          "1999",
+          "2003"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Which Game Boy from the Game Boy series of portable video game consoles was released first?",
+        "choices": [
+          "Game Boy Color",
+          "Game Boy Advance SP",
+          "Game Boy Micro",
+          "Game Boy Advance"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "After the 1516 Battle of Marj Dabiq, the Ottoman Empire took control of Jerusalem from which sultanate?",
+        "choices": [
+          "Ayyubid",
+          "Seljuq",
+          "Ummayyad",
+          "Mamluk"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "What does the letter &#039;S&#039; stand for in &#039;NASA&#039;?",
+        "choices": [
+          "Star",
+          "Space",
+          "Society",
+          "Science"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "What does the &#039;S&#039; in the RSA encryption algorithm stand for?",
+        "choices": [
+          "Secure",
+          "Schottky",
+          "Stable",
+          "Shamir"
+        ]
+      }
+    ]
+  },
+  "syxkvx2t": {
+    "username": "gago",
+    "category": "any",
+    "difficulty": "any",
+    "type": "any",
+    "correctAnswers": [
+      "8",
+      "The United Kingdom",
+      "Izayoi Sakuya",
+      "Active Directory",
+      "False",
+      "Hydrogen",
+      "Mad Cow disease",
+      "Homer",
+      "False",
+      "Lordgenome"
+    ],
+    "quiz_data": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "How many permanent companions are there in the base game version of Fallout: New Vegas?",
+        "choices": [
+          "8",
+          "6",
+          "9",
+          "7"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The Principality of Sealand is an unrecognized micronation off the coast of what country?",
+        "choices": [
+          "Japan",
+          "Austrailia",
+          "Argentina",
+          "The United Kingdom"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In Touhou 12: Undefined Fantastic Object, which of these was not a playable character?",
+        "choices": [
+          "Kirisame Marisa",
+          "Kochiya Sanae",
+          "Hakurei Reimu",
+          "Izayoi Sakuya"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "What does AD stand for in relation to Windows Operating Systems? ",
+        "choices": [
+          "Alternative Drive",
+          "Automated Database",
+          "Active Department",
+          "Active Directory"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "There are 6 legendary cards in &quot;Clash Royale&quot;.",
+        "choices": [
+          "False",
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science &amp; Nature",
+        "question": "What is the first element on the periodic table?",
+        "choices": [
+          "Hydrogen",
+          "Helium",
+          "Oxygen",
+          "Lithium"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What is the common term for bovine spongiform encephalopathy (BSE)?",
+        "choices": [
+          "Milk fever",
+          "Foot-and-mouth disease",
+          "Weil&#039;s disease",
+          "Mad Cow disease"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who is attributed credit for recording the epic poem The Odyssey?",
+        "choices": [
+          "Homer",
+          "Socrates",
+          "Odysseus",
+          "Aristotle"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The two atomic bombs dropped on Japan by the United States in August 1945 were named &#039;Little Man&#039; and &#039;Fat Boy&#039;.",
+        "choices": [
+          "True",
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "In the show &quot;Tengen Toppa Gurren Lagann&quot; what is the name of the character who force everyone to live underground?",
+        "choices": [
+          "Lordgenome",
+          "King Loname",
+          "Lord Genome",
+          "Kingloname"
+        ]
+      }
+    ]
+  },
+  "bd0ovsrv": {
+    "username": "gago",
+    "category": "31",
+    "difficulty": "hard",
+    "type": "any",
+    "correctAnswers": [
+      "True",
+      "The End",
+      "Gonzo",
+      "Philippines",
+      "A-1 Pictures",
+      "Freedom",
+      "JoJo Kikasu",
+      "Sazae-san",
+      "Edward &quot;Whitebeard&quot; Newgate",
+      "Assassins"
+    ],
+    "quiz_data": [
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "The protagonist in &quot;Humanity Has Declined&quot; has no discernable name and is simply referred to as &#039;I&#039; for most of the series.",
+        "choices": [
+          "False",
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Medaka Kurokami from &quot;Medaka Box&quot; has what abnormality?",
+        "choices": [
+          "Sandbox",
+          "Perfection",
+          "Fairness",
+          "The End"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which studio animated Afro Samurai?",
+        "choices": [
+          "Gonzo",
+          "Production I.G",
+          "xebec",
+          "Kyoto Animation"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which of the following countries does &quot;JoJo&#039;s Bizarre Adventure: Stardust Crusaders&quot; not take place in?",
+        "choices": [
+          "India",
+          "Philippines",
+          "Egypt",
+          "Pakistan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which animation studio produced &quot;Sword Art Online&quot;?",
+        "choices": [
+          "Production I.G",
+          "Kyoto Animation",
+          "A-1 Pictures",
+          "Silver Link"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;One Piece&quot;, what does &quot;the Pirate King&quot; mean to the captain of the Straw Hat Pirates?",
+        "choices": [
+          "Promise",
+          "Adventure",
+          "Friendship",
+          "Freedom"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Winch of these names are not a character of JoJo&#039;s Bizarre Adventure?",
+        "choices": [
+          "Jean-Pierre Polnareff",
+          "George Joestar",
+          "JoJo Kikasu",
+          "Risotto Nero"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which of these anime have over 7,500 episodes?",
+        "choices": [
+          "One Piece",
+          "Chibi Maruko-chan",
+          "Sazae-san",
+          "Naruto"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;One Piece&quot;, who confirms the existence of the legendary treasure, One Piece?",
+        "choices": [
+          "Former Marine Fleet Admiral Sengoku",
+          "Silvers Rayleigh",
+          "Pirate King Gol D Roger",
+          "Edward &quot;Whitebeard&quot; Newgate"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;Hunter x Hunter&quot;, what are members in Killua&#039;s family known for being?",
+        "choices": [
+          "Ninjas",
+          "Hunters",
+          "Assassins",
+          "Bandits"
+        ]
+      }
+    ]
+  },
+  "jyt5b1yq": {
+    "username": "gago",
+    "category": "31",
+    "difficulty": "hard",
+    "type": "any",
+    "correctAnswers": [
+      "Koala",
+      "Junji Ito",
+      "A-1 Pictures",
+      "True",
+      "The End",
+      "Philippines",
+      "1996",
+      "Satelite",
+      "False",
+      "Xebec"
+    ],
+    "quiz_data": [
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In &quot;One Piece&quot;, who is the girl who overcame her enslaved past and became an agent of an army to fight the corrupt government?",
+        "choices": [
+          "Emporio Ivankov ",
+          "Nico Robin",
+          "Boa Hancock",
+          "Koala"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Who was the Author of the manga Uzumaki?",
+        "choices": [
+          "Junji Ito",
+          "Masashi Kishimoto",
+          "Akira Toriyama",
+          "\tNoboru Takahashi"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which animation studio produced &quot;Sword Art Online&quot;?",
+        "choices": [
+          "A-1 Pictures",
+          "Kyoto Animation",
+          "Production I.G",
+          "Silver Link"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "The protagonist in &quot;Humanity Has Declined&quot; has no discernable name and is simply referred to as &#039;I&#039; for most of the series.",
+        "choices": [
+          "False",
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Medaka Kurokami from &quot;Medaka Box&quot; has what abnormality?",
+        "choices": [
+          "Perfection",
+          "Sandbox",
+          "The End",
+          "Fairness"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which of the following countries does &quot;JoJo&#039;s Bizarre Adventure: Stardust Crusaders&quot; not take place in?",
+        "choices": [
+          "India",
+          "Philippines",
+          "Pakistan",
+          "Egypt"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "In what year did the manga &quot;Ping Pong&quot; begin serialization?",
+        "choices": [
+          "2003",
+          "1996",
+          "2014",
+          "2010"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which animation studio produced &quot;Log Horizon&quot;?",
+        "choices": [
+          "Sunrise",
+          "Xebec",
+          "Production I.G",
+          "Satelite"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "The character Plum from &quot;No Game No Life&quot; is a girl.",
+        "choices": [
+          "False",
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Japanese Anime &amp; Manga",
+        "question": "Which animation studio animated &quot;To Love-Ru&quot;?",
+        "choices": [
+          "Sunrise",
+          "Xebec",
+          "Kyoto Animation",
+          "Trigger"
+        ]
+      }
     ]
   }
 }

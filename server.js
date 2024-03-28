@@ -20,7 +20,7 @@ let userDatas = JSON.parse(fs.readFileSync(__dirname + '/data/userdatas.json', '
 // ================== Routes ================== //
 
 app.get('/', async (req, res) => {
-    res.send('Sa susunod na yung mother fucking UI.');
+    res.sendFile(path.join(__dirname + '/public/index.html'));
 });
 
 app.post('/api/check_user', async (req, res) => {
@@ -90,7 +90,7 @@ app.post('/api/create', async (req, res) => {
 
         let requestData = {
             amount: items,
-            category: category != 'any' ? quizCategories[category] : '',
+            category: category != 'any' ? category : '',
             difficulty: difficulty != 'any' ? difficulty : '',
             type: type != 'any' ? type : '',
         }
@@ -199,6 +199,7 @@ app.post('/api/check', async (req, res) => {
 
         // save quiz data
         quizDatas[id] = {
+            id: id,
             username: quizes[id].username,
             category: quizes[id].category,
             difficulty: quizes[id].difficulty,
@@ -259,6 +260,7 @@ app.post('/api/quiz_preview', async (req, res) => {
         // return success response
         res.status(200).send({
             username: quizes[id].username,
+            items: quizDatas[id].items,
             category: quizes[id].category,
             difficulty: quizes[id].difficulty,
             type: quizes[id].type,
@@ -276,6 +278,39 @@ app.post('/api/quiz_preview', async (req, res) => {
             message: error.message
         });
     }
+});
+
+app.post('/api/quiz_result', async (req, res) => {
+    const id = req.body.resultId;
+
+    if (!id) {
+        res.status(400).send({
+            status: 'error',
+            message: 'Bad Request'
+        });
+        return;
+    }
+
+    if (!quizDatas[id]) {
+        res.status(404).send({
+            status: 'error',
+            message: "Quiz data not found"
+        });
+        return;
+    }
+
+    res.status(200).send({
+        score: quizDatas[id].score,
+        items: quizDatas[id].items,
+        username: quizDatas[id].username,
+        category: quizDatas[id].category,
+        difficulty: quizDatas[id].difficulty,
+        type: quizDatas[id].type,
+        user_answers: quizDatas[id].user_answers,
+        correct_answers: quizes[id].correctAnswers,
+        status: 'success',
+        message: 'Result fetched successfully'
+    });
 });
 
 // delete quizes data and quizdatas data every 12:00 AM manila time
