@@ -16,7 +16,7 @@ body {
 #main-welcome-container {
   display: flex;
   width: 100vw;
-  height: 80vh;
+  height: 88vh;
   flex-direction: column;
   align-items: center;
   padding: 30px 20px 20px 20px;
@@ -26,7 +26,7 @@ body {
 .welcome-content-container {
   display: flex;
   width: 100%;
-  height: 80%;
+  height: 85%;
   flex-direction: column;
   align-items: center;
 }
