@@ -35,7 +35,7 @@ a {
   display: flex;
   padding: 20px;
   color: #0C003A;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-weight: 700;
   letter-spacing: 1px;
   text-align: center;
@@ -48,13 +48,13 @@ a {
 
 #enter-quiz {
   font-weight: 800;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   margin-top: 20px;
   border-radius: 10px;
   border: none;
   width: 40%;
   padding: 5px;
-  letter-spacing: 1.5px;
+  letter-spacing: 1.2px;
   background-color: #16F4BA;
   color: #0C003A;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);

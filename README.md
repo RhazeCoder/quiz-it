@@ -40,5 +40,5 @@ npm run start
 ### Disclaimer
 ------------
 - This project is intended for **educational purposes only**.
-
+<br>
 ***Coded with 🖤 Justine Agcanas***

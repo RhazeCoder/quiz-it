@@ -75,7 +75,7 @@ async function startSite() {
                 resultDifficulty.innerHTML = difficultyText;
 
                 quizId = id;
-                getActivePage('result');
+                setActivePage('result');
             } else {
                 checkUser();
             }
@@ -85,7 +85,7 @@ async function startSite() {
     }
 }
 
-async function getActivePage(page) {
+async function setActivePage(page) {
     switch (page) {
         case 'welcome':
             main_welcome_container.style.display = 'flex';
@@ -156,9 +156,9 @@ async function checkUser() {
 
             if (data.status === 'success') {
                 user_username = data.username;
-                getActivePage('setup');
+                setActivePage('setup');
             } else {
-                getActivePage('welcome');
+                setActivePage('welcome');
             }
         });
 }
@@ -265,7 +265,7 @@ async function displayResult() {
         resultCategory.innerHTML = categoryText
         resultDifficulty.innerHTML = difficultyText;
 
-        getActivePage('result');
+        setActivePage('result');
     } else {
         alert('Error: ', data.message);
         nextBtn.disabled = false;
@@ -299,7 +299,7 @@ enterQuizBtn.addEventListener('click', async () => {
 
             if (data.status === 'success') {
                 user_username = usernameInput.value;
-                getActivePage('setup');
+                setActivePage('setup');
             }
         });
 });
@@ -338,12 +338,12 @@ startQuizBtn.addEventListener('click', async () => {
             currentQuestionIndex = 0;
 
             timerStatus = true;
-            await startTimer(quizData.length);
+            startTimer(quizData.length);
             itemsPossition.innerHTML = `${currentQuestionIndex + 1}/${quizData.length}`;
             quizQuestion.innerHTML = quizData[currentQuestionIndex].question;
             displayChoices(quizData[currentQuestionIndex]);
 
-            await getActivePage('quiz');
+            await setActivePage('quiz');
         } else {
             alert('Error: ', data.message);
             startQuizBtn.disabled = false;
@@ -554,7 +554,7 @@ viewQuizPreview.addEventListener('click', async () => {
         quizPreviewList.appendChild(listItem);
     }
 
-    getActivePage('quiz_preview');
+    setActivePage('quiz_preview');
 });
 
 shareResult.addEventListener('click', async () => {
@@ -566,7 +566,7 @@ shareResult.addEventListener('click', async () => {
 });
 
 previewGoBackBtn.addEventListener('click', async () => {
-    getActivePage('result');
+    setActivePage('result');
 });
 
 startSite();
